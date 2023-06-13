@@ -4,7 +4,7 @@ Please contact me at [ethancc@uw.edu](mailto:ethancc@uw.edu) if you have any que
 
 ### Attribution:
 This code is freely available for reuse as described in the MIT License included in this repository. If using this code in an academic publication, we encourage you to provide the following citations:
-* Campbell, E.C. and Christensen, K.M. (2023, June 13). Analysis code for "Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting" (Version v1.0.0). Zenodo. doi:TBD.
+* Zenodo archive (TBD)
 * Study preprint citation (TBD)
 
 ### Description:
