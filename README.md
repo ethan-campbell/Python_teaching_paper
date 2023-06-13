@@ -10,3 +10,8 @@ This code is freely available for reuse as described in the MIT License included
 ### Description:
 * The Jupyter notebook `OCEAN_215_paper_analyses.ipynb` carries out analysis and visualization of anonymized course-related data, as described in the study text. Specifically, the notebook ingests an Excel data file titled `All OCEAN 215 data deidentified.xlsx` (available upon reasonable request by email) containing anonymized metrics organized in separate sheets. As indicated by section headers, code in the notebook is used to generate Figs. 2, 3, 4, 5, 6 and Figs. S1, S2, S3 in the Supplemental Materials. Dependencies are minimal and the notebook was last run in Google Colab using the following package versions: NumPy=1.22.4, Pandas=1.5.3, SciPy=1.10.1, Matplotlib=3.7.1.
 * The Python script `student_final_project_code_analysis.py` calculates metrics based on students' submitted final project Python code. The script ingests students' individual Jupyter notebook files, counts occurrences of certain strings, and outputs metrics assessing the breadth of students' code usage. We cannot provide the raw project code files, but can offer the calculated anonymized metrics (see above).
+
+### Related resources:
+* Our OCEAN 215 course materials are available for free reuse and adaptation under a CC-BY-4.0 license at this website (located under "Calendar" tab): https://ethan-campbell.github.io/OCEAN_215/
+* Recorded course lessons are available on our YouTube channel: https://www.youtube.com/@ocean215python
+* You can find the GitHub repository for the course website here: https://github.com/ethan-campbell/OCEAN_215
