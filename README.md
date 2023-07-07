@@ -6,7 +6,7 @@ Please contact me at [ethancc@uw.edu](mailto:ethancc@uw.edu) if you have any que
 
 ### Attribution:
 This code is freely available for reuse as described in the MIT License included in this repository. If using this code in an academic publication, we encourage you to provide the following citations:
-* **Preprint**: Campbell, E.C.\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. ESS Open Archive. Date and DOI pending. _(\* Co-first authors, reflecting equal contributions to this work)_
+* **Preprint**: Campbell, E.C.\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2023). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. Earth and Space Open Archive. doi:[10.22541/essoar.168839439.99576639/v1](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v1) _(\* Co-first authors, reflecting equal contributions to this work)_
 * **Zenodo code archive**: Campbell, E.C. & Christensen, K.M. (2023, June 27). Analysis code for "Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting" (v1.0-as-submitted). Zenodo. doi:[10.5281/zenodo.8087944](https://doi.org/10.5281/zenodo.8087944)
 
 ### Description:
