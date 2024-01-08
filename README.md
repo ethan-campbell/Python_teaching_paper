@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/653018480.svg)](https://zenodo.org/badge/latestdoi/653018480)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8087943.svg)](https://doi.org/10.5281/zenodo.8087943)
 
 **This repository contains the Python analysis code used for Campbell and Christensen et al., "Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting" (submitted to _Journal of Geoscience Education_).**
 
