@@ -1,12 +1,13 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8087943.svg)](https://doi.org/10.5281/zenodo.8087943)
 
-**This repository contains the Python analysis code used for Campbell and Christensen et al., "Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting" (in review at _Journal of Geoscience Education_).**
+**This repository contains the Python analysis code used for Campbell and Christensen et al., "[Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting](https://doi.org/10.1080/10899995.2024.2384338)", _Journal of Geoscience Education_, doi:10.1080/10899995.2024.2384338.**
 
 Please contact me at [ethancc@uw.edu](mailto:ethancc@uw.edu) if you have any questions regarding this code.
 
 ### Attribution:
 This code is freely available for reuse as described in the MIT License included in this repository. If using this code in an academic publication, we encourage you to provide the following citations:
-* **Preprint**: Campbell, E.C.\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2024). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. Earth and Space Open Archive. doi:[10.22541/essoar.168839439.99576639/v2](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v2) _(\* Co-first authors, reflecting equal contributions to this work)_
+* **Paper**: Campbell, E.C.\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2024). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. _Journal of Geoscience Education_, in press. doi:[10.1080/10899995.2024.2384338](https://doi.org/10.1080/10899995.2024.2384338) _(\* Co-first authors, reflecting equal contributions to this work)_
+* **Preprint (accepted manuscript)**: Campbell, E.C.\*, Christensen, K.M.\*, Nuwer, M., Ahuja, A., Boram, O., Liu, J., Miller, R., Osuna, I., Riser, S.C. (2024). Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting. Earth and Space Open Archive. doi:[10.22541/essoar.168839439.99576639/v3](https://essopenarchive.org/doi/full/10.22541/essoar.168839439.99576639/v3)
 * **Zenodo code archive**: Campbell, E.C. & Christensen, K.M. (2024, June 24). Analysis code for "Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting". Zenodo. doi:[10.5281/zenodo.8087943](https://doi.org/10.5281/zenodo.8087943)
 
 ### Description:
