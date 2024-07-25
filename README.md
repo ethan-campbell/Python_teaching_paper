@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8087943.svg)](https://doi.org/10.5281/zenodo.8087943)
 
-**This repository contains the Python analysis code used for Campbell and Christensen et al., "[Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting](https://doi.org/10.1080/10899995.2024.2384338)", _Journal of Geoscience Education_, doi:10.1080/10899995.2024.2384338.**
+**This repository contains the Python analysis code used for Campbell and Christensen et al. (2024), "[Cracking the code: An evidence-based approach to teaching Python in an undergraduate earth science setting](https://doi.org/10.1080/10899995.2024.2384338)", _Journal of Geoscience Education_, doi:10.1080/10899995.2024.2384338.**
 
 Please contact me at [ethancc@uw.edu](mailto:ethancc@uw.edu) if you have any questions regarding this code.
 
